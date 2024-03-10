@@ -1,0 +1,17 @@
+header1=>https://images.pexels.com/photos/1770205/pexels-photo-1770205.jpeg?cs=srgb&dl=pexels-ricael-sousa-1770205.jpg&fm=jpg&w=640&h=800
+header2=>https://unsplash.com/photos/B_VLJouyKR4
+header3=>https://unsplash.com/photos/OjMa8bqDjew
+home1=>https://unsplash.com/photos/hxNiXP498UI
+home2=>https://unsplash.com/photos/D6CbgeFuPC0
+home3=>https://unsplash.com/photos/VdTpBlpGzOM
+home4=>https://www.pexels.com/photo/selective-focus-photography-of-woman-wearing-red-tank-top-with-both-hands-on-barrier-1770205/
+home5=>https://www.pexels.com/photo/grayscale-photo-of-person-applying-tattoo-955938/
+about1=>https://unsplash.com/photos/Aj4DeR0H6RQ
+about2=>https://unsplash.com/photos/EqLXRA41jrA
+about3=>https://unsplash.com/photos/pIltvcnqsfU
+services1=>https://unsplash.com/photos/xyJZvUL4_TY
+services2=>https://www.pexels.com/photo/woman-leaning-on-table-1904841/
+services3=>https://www.pexels.com/photo/photo-of-left-arm-with-tattoo-2183131/
+services4=>https://www.pexels.com/photo/bird-tattoo-2200913/
+blog1=>https://www.pexels.com/photo/man-tattooing-arm-10681099/
+blog2=>https://www.pexels.com/photo/tattoo-artist-working-on-a-client-13346106/

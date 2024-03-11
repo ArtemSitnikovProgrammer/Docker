@@ -25,7 +25,7 @@ services:
       - WORDPRESS_DB_PASSWORD=$MYSQL_PASSWORD
       - WORDPRESS_DB_NAME=$MYSQL_DATABASE
     volumes:
-      - www-html:/var/www/html
+      - ./html:/var/www/html
     networks:
       - app
 
@@ -39,8 +39,8 @@ services:
       - "80:80"
       - "443:443"
     volumes:
-      - www-html:/var/www/html
-      - etc-letsencrypt:/etc/letsencrypt
+      - html:/var/www/html
+      - ./letsencrypt:/etc/letsencrypt
       - ./nginx-conf.d:/etc/nginx/conf.d
     networks:
       - app
@@ -56,9 +56,9 @@ services:
 #    command: certonly --webroot --webroot-path=/var/www/html --email timonsitnik@yandex.ru --agree-tos --no-eff-email -d sitnikovap.ru
  
 volumes:
-  www-html:
+  html:
   dbfile:
-  etc-letsencrypt:
+  letsencrypt:
 
 networks:
   app:
